@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.76 59.76">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2, .cls-3 {
+        clip-rule: evenodd;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #7823dc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="0 59.76 59.76 59.76 59.76 0 0 0 0 59.76 0 59.76"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-3" points="0 0 59.76 0 59.76 59.76 0 59.76 0 0 0 0"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-1" points="0 59.76 59.76 59.76 59.76 0 0 0 0 59.76 0 59.76"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g class="cls-4">
+      <g class="cls-5">
+        <path class="cls-6" d="M30.69,12.62c9.96.01,18.02,8.06,18.03,18h3.61c-.01-11.94-9.72-21.61-21.68-21.59-11.95.01-21.62,9.68-21.63,21.6h3.61c.02-9.94,8.1-18,18.06-18.01h0Z"/>
+        <polygon class="cls-6" points="1.82 1.8 59.56 1.8 59.56 5.38 1.82 5.38 1.82 1.8 1.82 1.8"/>
+        <polygon class="cls-6" points="5.41 2.61 5.41 59.45 1.8 59.45 1.8 2.61 5.41 2.61 5.41 2.61"/>
+        <polygon class="cls-6" points="59.55 2.61 59.55 59.45 55.96 59.45 55.96 2.61 59.55 2.61 59.55 2.61"/>
+        <polygon class="cls-6" points="1.8 30.62 12.63 30.62 12.63 59.45 1.8 59.45 1.8 30.62 1.8 30.62"/>
+        <polygon class="cls-6" points="48.73 30.63 59.57 30.63 59.57 59.45 48.73 59.45 48.73 30.63 48.73 30.63"/>
+        <polygon class="cls-6" points="29.02 11.05 32.63 11.05 32.63 59.45 29.02 59.45 29.02 11.05 29.02 11.05"/>
+        <path class="cls-6" d="M25.5,43.05c0,1.09-.88,1.97-1.97,1.97-1.09,0-1.97-.88-1.97-1.97,0-1.09.88-1.97,1.97-1.97s1.97.88,1.97,1.97h0Z"/>
+        <path class="cls-6" d="M39.89,43.05c0,1.09-.88,1.97-1.97,1.97-1.09,0-1.97-.88-1.97-1.97,0-1.09.88-1.97,1.97-1.97s1.97.88,1.97,1.97h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
