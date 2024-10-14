@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 181.61 181.61">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2, .cls-3 {
+        clip-rule: evenodd;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #7823dc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="0 181.61 181.61 181.61 181.61 0 0 0 0 181.61 0 181.61"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-3" points="0 0 181.61 0 181.61 181.61 0 181.61 0 0 0 0"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-1" points="0 181.61 181.61 181.61 181.61 0 0 0 0 181.61 0 181.61"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g class="cls-4">
+      <g class="cls-5">
+        <path class="cls-6" d="M170.03,38.32v10.95H16.45v-10.95h153.57M181,27.37H5.48v32.85h175.51V27.37h0Z"/>
+        <path class="cls-6" d="M170.03,60.22v109.49H16.45V60.22h153.57M181,49.27H5.48v131.39h153.57l21.94-21.9V49.27h0Z"/>
+        <polygon class="cls-6" points="16.45 147.82 170.03 147.82 170.03 158.76 16.45 158.76 16.45 147.82 16.45 147.82"/>
+        <polygon class="cls-6" points="71.3 82.12 38.39 82.12 38.39 93.07 71.3 93.07 71.3 82.12 71.3 82.12 71.3 82.12 71.3 82.12"/>
+        <polygon class="cls-6" points="148.09 82.12 115.18 82.12 115.18 93.07 148.09 93.07 148.09 82.12 148.09 82.12 148.09 82.12 148.09 82.12"/>
+        <polygon class="cls-6" points="137.12 71.17 126.15 71.17 126.15 104.02 137.12 104.02 137.12 71.17 137.12 71.17 137.12 71.17 137.12 71.17"/>
+        <path class="cls-6" d="M38.39,16.42v10.95h-10.97v-10.95h10.97M49.36,5.47H16.45v32.85h32.91V5.47h0Z"/>
+        <path class="cls-6" d="M159.06,16.42v10.95h-10.97v-10.95h10.97M170.03,5.47h-32.91v32.85h32.91V5.47h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
