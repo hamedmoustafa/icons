@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2, .cls-3 {
+        clip-rule: evenodd;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #7823dc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="0 60 60 60 60 0 0 0 0 60 0 60"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-3" points="0 0 60 0 60 60 0 60 0 0 0 0"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-1" points="0 60 60 60 60 0 0 0 0 60 0 60"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g class="cls-4">
+      <g class="cls-5">
+        <path class="cls-6" d="M19.93,19.9h-3.62v-3.62h3.62v3.62h0ZM23.56,12.66h-10.87v10.85h10.87v-10.85h0Z"/>
+        <path class="cls-6" d="M19.93,34.37h-3.62v-3.62h3.62v3.62h0ZM23.56,27.13h-10.87v10.85h10.87v-10.85h0Z"/>
+        <path class="cls-6" d="M19.93,48.84h-3.62v-3.62h3.62v3.62h0ZM23.56,41.6h-10.87v10.85h10.87v-10.85h0Z"/>
+        <path class="cls-6" d="M9.06,5.61h43.49v50.65H9.06V5.61h0ZM12.68,1.99l-7.25,7.05v50.65h50.74V1.99H12.68Z"/>
+        <polygon class="cls-6" points="33.89 22.97 27.54 16.46 30.08 13.93 33.89 17.73 40.41 11.4 42.95 13.93 33.89 22.97 33.89 22.97"/>
+        <polygon class="cls-6" points="33.89 37.44 27.54 30.93 30.08 28.4 33.89 32.2 40.41 25.87 42.95 28.4 33.89 37.44 33.89 37.44"/>
+        <polygon class="cls-6" points="33.89 51.91 27.54 45.4 30.08 42.87 33.89 46.67 40.41 40.34 42.95 42.87 33.89 51.91 33.89 51.91"/>
+      </g>
+    </g>
+  </g>
+</svg>

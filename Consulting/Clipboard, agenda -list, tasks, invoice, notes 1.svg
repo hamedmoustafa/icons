@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2, .cls-3 {
+        clip-rule: evenodd;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #7823dc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="0 60 60 60 60 0 0 0 0 60 0 60"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-3" points="0 0 60 0 60 60 0 60 0 0 0 0"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-1" points="0 60 60 60 60 0 0 0 0 60 0 60"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g class="cls-4">
+      <g class="cls-5">
+        <polygon class="cls-6" points="19.75 19.9 48.74 19.9 48.74 23.51 19.75 23.51 19.75 19.9 19.75 19.9"/>
+        <polygon class="cls-6" points="12.5 19.9 16.13 19.9 16.13 23.51 12.5 23.51 12.5 19.9 12.5 19.9"/>
+        <polygon class="cls-6" points="19.75 27.13 48.74 27.13 48.74 30.75 19.75 30.75 19.75 27.13 19.75 27.13"/>
+        <polygon class="cls-6" points="12.5 27.13 16.13 27.13 16.13 30.75 12.5 30.75 12.5 27.13 12.5 27.13"/>
+        <polygon class="cls-6" points="19.75 34.37 48.74 34.37 48.74 37.98 19.75 37.98 19.75 34.37 19.75 34.37"/>
+        <polygon class="cls-6" points="12.5 34.37 16.13 34.37 16.13 37.98 12.5 37.98 12.5 34.37 12.5 34.37"/>
+        <polygon class="cls-6" points="19.75 41.6 48.74 41.6 48.74 45.22 19.75 45.22 19.75 41.6 19.75 41.6"/>
+        <polygon class="cls-6" points="12.5 41.6 16.13 41.6 16.13 45.22 12.5 45.22 12.5 41.6 12.5 41.6"/>
+        <polygon class="cls-6" points="19.75 48.84 48.74 48.84 48.74 52.45 19.75 52.45 19.75 48.84 19.75 48.84"/>
+        <polygon class="cls-6" points="12.5 48.84 16.13 48.84 16.13 52.45 12.5 52.45 12.5 48.84 12.5 48.84"/>
+        <path class="cls-6" d="M5.44,1.81v57.88h50.74V1.81H5.44ZM40.05,5.43l-1.27,1.81h-16.13l-1.27-1.81h18.66ZM52.55,56.07H9.06V5.43h8.15l3.62,5.43h20.11l3.62-5.43h7.97v50.65h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

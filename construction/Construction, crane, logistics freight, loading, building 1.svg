@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.76 59.76">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2, .cls-3 {
+        clip-rule: evenodd;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #7823dc;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="0 59.76 59.76 59.76 59.76 0 0 0 0 59.76 0 59.76"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-3" points="0 0 59.76 0 59.76 59.76 0 59.76 0 0 0 0"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-1" points="0 59.76 59.76 59.76 59.76 0 0 0 0 59.76 0 59.76"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <g class="cls-4">
+      <g class="cls-5">
+        <path class="cls-6" d="M23.94,6.09l20.22,10.11H11.8l12.14-10.11M23.44,1.78L1.78,19.82h57.75L23.44,1.78h0Z"/>
+        <path class="cls-6" d="M26.92,19.92v35.74h-6.95V19.92h6.95M30.65,16.2h-14.41v43.18h14.41V16.2h0Z"/>
+        <polygon class="cls-6" points="12.63 23.37 1.8 23.37 1.8 27.01 12.63 27.01 12.63 23.37 12.63 23.37 12.63 23.37 12.63 23.37"/>
+        <polygon class="cls-6" points="55.98 19.8 52.34 19.8 52.34 30.61 55.98 30.61 55.98 19.8 55.98 19.8 55.98 19.8 55.98 19.8"/>
+        <polygon class="cls-6" points="29.07 20.61 23.46 9.42 17.86 20.61 14.63 19 23.46 1.36 32.3 19 29.07 20.61 29.07 20.61 29.07 20.61"/>
+        <polygon class="cls-6" points="27.19 54.9 17.3 45.02 24.52 37.82 17.3 30.61 27.35 20.58 29.9 23.13 22.41 30.61 29.62 37.82 22.41 45.02 29.74 52.35 27.19 54.9 27.19 54.9 27.19 54.9"/>
+        <path class="cls-6" d="M52.34,39.62c-2.99,0-5.41-2.42-5.41-5.4h3.61c0,.99.81,1.8,1.8,1.8s1.8-.81,1.8-1.8-.81-1.8-1.8-1.8v-3.6c2.99,0,5.41,2.42,5.41,5.4s-2.42,5.4-5.41,5.4h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
